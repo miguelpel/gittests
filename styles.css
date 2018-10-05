@@ -2,5 +2,7 @@ body {
     text-align: center;
     font-family: sans-serif;
     font-size: 2rem;
+    font-weight: 700;
+    color: rgb(81, 0, 128);
     background-color: teal;
 }
